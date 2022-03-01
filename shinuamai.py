@@ -1,0 +1,6 @@
+a = int(input("type number: "))
+b = int(input("type number: "))
+print("input data: ")
+print(a," ",b)
+print("reply: ")
+print(a+b)
